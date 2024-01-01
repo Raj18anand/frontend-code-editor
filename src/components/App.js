@@ -59,7 +59,7 @@ function App() {
           theme={theme.xml}
           onChangeTheme={onChangeTheme}
           // icon={<FontAwesomeIcon icon={faCode}/>}
-          displayName="html"
+          displayName="HTML"
           value={html}
           onChange={setHtml}
         />

@@ -44,7 +44,7 @@ body {
   border-radius: 2px;
     height: 25px;
     margin-left: 2px;
-    font-family: cursive;
+    font-family: sans-serif;
 }
 
 .expand-collapse-btn {
@@ -63,7 +63,7 @@ body {
   padding: .5rem .5rem .5rem 1rem;
   border-top-right-radius: .5rem;
   border-top-left-radius: .5rem;
-  font-family: cursive;
+  font-family: sans-serif;
 }
 
 .CodeMirror {

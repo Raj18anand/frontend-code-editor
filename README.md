@@ -1,5 +1,5 @@
-# Frontend Code Editor
+# CodeCanvasHtml
 
-Demo: [Frontend Code Editor](https://main.dhwntbqr3oxgr.amplifyapp.com/)
+Demo: [CodeCanvasHtml](https://main.dhwntbqr3oxgr.amplifyapp.com/)
 
-Frontend Code Editor is an application to render real time HTML/CSS/JS code on your screen.
+An application to render HTML/CSS/JS code on your screen (Frontend Code Editor)
